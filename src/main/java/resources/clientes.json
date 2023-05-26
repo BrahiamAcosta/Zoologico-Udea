@@ -1,7 +1,7 @@
 {"clientes": [
   {
     "identificacion": 123456789,
-    "puntos": 325,
+    "puntos": 125,
     "nombre": "John Doe"
   },
   {
@@ -18,5 +18,15 @@
     "identificacion": 789123456,
     "puntos": 1200,
     "nombre": "Sarah Williams"
+  },
+  {
+    "identificacion": 1315,
+    "puntos": 225,
+    "nombre": "Furnesto Garcia"
+  },
+  {
+    "identificacion": 7777,
+    "puntos": 75,
+    "nombre": "Técnicas"
   }
 ]}
