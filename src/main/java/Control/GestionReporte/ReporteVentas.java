@@ -39,7 +39,7 @@ public class ReporteVentas {
         Document documento = new Document(PageSize.A4);
         documento.setMargins(0,0,0,0);
         try{
-            PdfWriter.getInstance(documento, new FileOutputStream("reportes/Reporte_"+getHora()+".pdf"));
+            PdfWriter.getInstance(documento, new FileOutputStream("src/main/java/Reportes/Reporte_"+getHora()+".pdf"));
             
             documento.open();
             
